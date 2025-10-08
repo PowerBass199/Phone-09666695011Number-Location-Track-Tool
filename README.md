@@ -24,4 +24,4 @@ With the help of this program you get the exact location of a phone number.
 I am not responsible for your actions.
 ```
 
-----
+
